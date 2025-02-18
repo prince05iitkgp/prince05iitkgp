@@ -1,8 +1,8 @@
 # Hi there, I'm Prince Gautam! 👋  
 
-🚀 **Associate in Technology Consulting | IIT Kharagpur Alumnus | Data and AI Enthusiast**  
+🚀 **Associate in Technology Consulting - PwC India | IIT Kharagpur | Ex-Zee5 | Data and AI Enthusiast**  
 
-💻 **Currently working at:** PwC, Technology Consulting  
+💻 **Currently working at:** PwC India, Technology Consulting  
 📍 **Location:** Kolkata, India  
 ⚡ **Working on:** Software Testing & QA Automation and Crafting innovative tech-driven solutions in AI/ML
 📊 **Tech Interests:** Product Management, AI Engineering, Data Science, Software Testing, and Digital Innovation  
